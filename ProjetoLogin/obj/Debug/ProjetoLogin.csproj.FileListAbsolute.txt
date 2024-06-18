@@ -1,0 +1,12 @@
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.BemVindo.resources
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.cadastro.resources
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.cadastreSe.resources
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\rapha\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb

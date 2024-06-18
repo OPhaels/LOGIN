@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|c:\\users\\rapha\\source\\repos\\projetologin\\projetologin\\apresentacao\\cadastrese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\cadastrese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\projetologin\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\projetologin\\dal\\logindaocomandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\dal\\logindaocomandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\projetologin\\apresentacao\\bemvindo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\bemvindo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\projetologin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\projetologin\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\projetologin\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\projetologin\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\projetologin\\apresentacao\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614255E-F49B-4999-BEE6-0618D9A9F131}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 184,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 476,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\Form1.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:44:41.922Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BemVindo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\BemVindo.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\BemVindo.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\BemVindo.cs [Design]",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\BemVindo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:43:29.799Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastrese.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\Cadastrese.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\Cadastrese.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\Cadastrese.cs [Design]",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\Cadastrese.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:45:54.026Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDaoComandos.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\DAL\\LoginDaoComandos.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\DAL\\LoginDaoComandos.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\DAL\\LoginDaoComandos.cs",
+              "RelativeToolTip": "ProjetoLogin\\DAL\\LoginDaoComandos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:45:42.921Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Program.cs",
+              "RelativeToolTip": "ProjetoLogin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:46:07.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Modelo\\Controle.cs",
+              "RelativeToolTip": "ProjetoLogin\\Modelo\\Controle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:45:44.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\Form1.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\Form1.cs",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\Form1.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAowFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:45:21.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\Apresentacao\\Form1.Designer.cs",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\Form1.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:44:44.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\DAL\\Conexao.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ProjetoLogin\\ProjetoLogin\\DAL\\Conexao.cs",
+              "RelativeToolTip": "ProjetoLogin\\DAL\\Conexao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:43:14.939Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
